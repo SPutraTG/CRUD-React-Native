@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "746096977062",
+    "firebase_url": "https://unixgg-dc8af.firebaseio.com",
+    "project_id": "unixgg-dc8af",
+    "storage_bucket": "unixgg-dc8af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746096977062:android:ee01c061145fdf8c464067",
+        "android_client_info": {
+          "package_name": "com.unixgg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746096977062-1l9e32il9pqv2i31eontv8155qnk3h93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl0v40IY1HBShcO9LPrSMaGy_YINDuhcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746096977062-1l9e32il9pqv2i31eontv8155qnk3h93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
